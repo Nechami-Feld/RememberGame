@@ -1,0 +1,9 @@
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\bin\Debug\RememberGame.exe
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\bin\Debug\RememberGame.pdb
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Debug\RememberGame.csproj.GenerateResource.Cache
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Debug\RememberGame.exe
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Debug\RememberGame.pdb
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Debug\RememberGame.csprojAssemblyReference.cache
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Debug\RememberGame.csproj.CoreCompileInputs.cache

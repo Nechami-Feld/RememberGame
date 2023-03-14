@@ -1,0 +1,3 @@
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\RememberGame\RememberGame\obj\x86\Release\RememberGame.csproj.GenerateResource.Cache
